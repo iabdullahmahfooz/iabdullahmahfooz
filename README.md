@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right"/>
 
-🎓 Final Year CS Student at **Comsats University**  
+🎓 Final Year CS Student at **Comsats University Islamabad**  
 💡 Passionate about building sleek cross-platform mobile apps & exploring AI-powered solutions  
 📍 *Based in Attock, Pakistan*
 
