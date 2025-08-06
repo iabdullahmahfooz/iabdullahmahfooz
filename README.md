@@ -7,7 +7,7 @@
 
 🎓 Final Year CS Student at **Comsats University Islamabad**  
 💡 Passionate about building sleek cross-platform mobile apps & exploring AI-powered solutions  
-📍 *Based in Attock, Pakistan*
+📍 *Based in Islamabad, Pakistan*
 
 ---
 
